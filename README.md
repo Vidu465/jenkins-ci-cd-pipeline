@@ -123,7 +123,7 @@ usermod -aG docker ubuntu
 systemctl restart docker
 ```
 
-Once you are done with the above steps, it is better to restart Jenkins.
+Once you are done with the above steps, it is better to restart jenkins.
 
 ```
 http://<ec2-instance-public-ip>:8080/restart
